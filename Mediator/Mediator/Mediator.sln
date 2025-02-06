@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{6C282C3B-5AE8-4295-A0A6-3C23DF6C8030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C282C3B-5AE8-4295-A0A6-3C23DF6C8030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C282C3B-5AE8-4295-A0A6-3C23DF6C8030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C282C3B-5AE8-4295-A0A6-3C23DF6C8030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C282C3B-5AE8-4295-A0A6-3C23DF6C8030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

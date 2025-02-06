@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploMemento", "Memento\EjemploMemento.csproj", "{7F2A6D54-A6BB-4347-B107-15111E77177E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento3", "Memento3\Memento3.csproj", "{3F9AB2A6-C2C2-4189-A8C5-D214235DAF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento2", "Memento2\Memento2.csproj", "{A80B030F-CC29-4FFC-9EF3-F043003AAC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F2A6D54-A6BB-4347-B107-15111E77177E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2A6D54-A6BB-4347-B107-15111E77177E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2A6D54-A6BB-4347-B107-15111E77177E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2A6D54-A6BB-4347-B107-15111E77177E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9AB2A6-C2C2-4189-A8C5-D214235DAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9AB2A6-C2C2-4189-A8C5-D214235DAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9AB2A6-C2C2-4189-A8C5-D214235DAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9AB2A6-C2C2-4189-A8C5-D214235DAF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80B030F-CC29-4FFC-9EF3-F043003AAC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80B030F-CC29-4FFC-9EF3-F043003AAC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80B030F-CC29-4FFC-9EF3-F043003AAC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80B030F-CC29-4FFC-9EF3-F043003AAC53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
